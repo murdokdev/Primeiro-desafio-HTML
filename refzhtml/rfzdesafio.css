@@ -1,0 +1,222 @@
+body{
+    border: 5px solid red;
+    background-color: aquamarine;
+} 
+
+p {
+    display: block;
+    margin-left: 8px;
+    font-size: 20px;
+    color: blue;
+}
+
+.nome {
+    margin: 6px 0 10px 10px;
+    color: blue;
+    font-size: 20px;
+    
+}
+
+
+.text {
+    display: block;
+    font-size: 15px;
+    background-color: rgb(193, 226, 200);
+    color: brown;
+    border:2px solid green;
+    margin: 6px 0 10px 0px; 
+    
+}
+
+.email {
+    display: block;
+    color: blue;
+    margin: 6px 0 10px 8px;
+    font-size: 20px;
+}
+
+.msn {
+    display: block;
+    font-size: 15px;
+    background-color: rgb(193, 226, 200);
+    color: brown;
+    border:2px solid green;
+    margin: 6px 0 10px 1px;
+}
+
+.idade {
+    display: block;
+    margin: 6px 3px 10px 8px;
+    font-size: 20px;
+    color: blue;
+}
+
+.number {
+    display: block;
+    font-size: 15px;
+    background-color: rgb(193, 226, 200);
+    color: brown;
+    border:2px solid green;
+    margin-top: 5px;
+}
+
+.data {
+    display: block;
+    margin: 6px 3px 10px 8px;
+    font-size: 20px;
+    color: blue; 
+} 
+
+.date {
+    display: block;
+    font-size: 18px;
+    background-color: rgb(193, 226, 200);
+    color: brown;
+    border:2px solid green;
+    margin-top: 5px ;
+}
+
+.conta {
+    display: block;
+    margin: 15px 3px 10px 10px;
+    color: blue;
+    font-size: 20px;
+}
+
+.checkbox {
+    display: block;
+    font-size: 18px;
+    color: brown;
+    margin-top: 10px;
+}
+
+.sexo {
+    display: block;
+    margin: 10px 3px 10px 5px;
+    color: blue;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.radio {
+    display: block;
+    font-size: 18px;
+    color: brown;
+    margin-top: 5px;
+    margin-left: 0;
+}
+
+.cor {
+    display: block;
+    font-size: 18px;
+    color: blue;
+    margin-top: 5px ;
+    margin-left: 10px;
+}
+
+.color {
+    display: block;
+    font-size: 18px;
+    color: brown;
+    margin-top: 5px;
+    margin-left: 0;
+}
+
+.bio {
+    display: block;
+    font-size: 18px;
+    color: blue;
+    margin-top: 15px ;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.grafia {
+    display: block;
+    font-size: 18px;
+    color: brown;
+    margin-top: 5px;
+}
+
+.nome {
+    display: block;
+    font-size: 18px;
+    color: blue;
+    margin-top: 5px ;
+    margin-left: 10px;
+    margin-bottom: 10px;
+} 
+
+.file {
+    display: block;
+    font-size: 18px;
+    color: brown;
+    margin-top: 5px;
+}
+
+.telefone {
+    display: block;
+    font-size: 18px;
+    color: blue;
+    margin-top: 5px ;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.tel {
+    display: block;
+    font-size: 18px;
+    color: brown;
+    margin-top: 5px;
+}
+
+.perfil {
+    display: block;
+    font-size: 18px;
+    color: blue;
+    margin-top: 10px ;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.url {
+    display: block;
+    font-size: 18px;
+    color: brown;
+    margin-top: 5px;
+    margin-bottom: 10px; 
+}
+
+.senha {
+    display: block;
+    font-size: 18px;
+    color: blue;
+    margin-top: 5px ;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.password {
+    display: block;
+    font-size: 18px;
+    color: brown;
+    margin-top: 5px;
+}
+
+.reset {
+    
+    margin: 10px 3px 10px 5px;
+    color: blue;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: 14px;
+}
+
+.submit {
+    
+    margin: 10px 3px 10px 5px;
+    color: blue;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: 14px;
+}
